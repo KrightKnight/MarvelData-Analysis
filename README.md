@@ -2,7 +2,7 @@
 
 The goal of this short project is to create a dataset on Disney movies and analyse it using Python, Jupyter Notebook, Beautiful soup, requests and other Python libraries.
 
-To create the dataset, data will be scraped from Wikipedia pages on Disney Movies. Too achieve this, the following areas in Python & Data Science will be covered:
+To create the dataset, data will be scraped from Wikipedia pages on Disney Movies. In order to do this, will:
 
 > Web scraping with BeautifulSoup
 > Cleaning data
